@@ -2,7 +2,7 @@
 
 ## driip!
 
-- Research-enthusiast CSE Undergraduate.
+- Research-enthusiastic CSE Undergraduate student.
 - Likes
   - Machine Learning / Deep Learning
   - Problem Solving
