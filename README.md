@@ -5,14 +5,14 @@
 - Research-enthusiastic CSE Undergraduate student.
 - Likes
   - Machine Learning / Deep Learning
+  - Data Science
   - Problem Solving
 - Studying
+  - EDA (Exploratory Data Analysis)
   - React
   - Computer Vision
   - NLP
 - Interested in
-  - Data Science / Data Engineering
-  - EDA
   - TypeScript
   - Rust
   - Mathematics
