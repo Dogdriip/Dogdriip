@@ -2,7 +2,7 @@
 
 # driip!
 
-<p style="text-align: center; font-size: 1.2em;">
+<p align="center">
   <a href="https://driip.me">Homepage</a>
   |
   <a href="https://driip.me/blog">Blog</a>
