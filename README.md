@@ -14,15 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:dogdriip@gmail.com">
-    <img src="https://img.shields.io/badge/-dogdriip@gmail.com-red?style=flat-square&labelColor=red&logo=Gmail&logoColor=white" />
-  </a>
-</p>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogdriip)](https://solved.ac/dogdriip)
-
 - Research-enthusiastic CSE Undergraduate student.
 - Likes
   - Machine Learning / Deep Learning
