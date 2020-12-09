@@ -3,11 +3,11 @@
 # driip!
 
 <p align="center">
-  <a href="https://driip.me">Homepage</a>
+  <strong><a href="https://driip.me">Homepage</a></strong>
   |
-  <a href="https://driip.me/blog">Blog</a>
+  <strong><a href="https://driip.me/blog">Blog</a></strong>
   |
-  <a href="https://driip.me/cv">Curriculum Vitae (CV)</a>
+  <strong><a href="https://driip.me/cv">Curriculum Vitae (CV)</a></strong>
 </p>
 
 - Research-enthusiastic CSE Undergraduate student.
