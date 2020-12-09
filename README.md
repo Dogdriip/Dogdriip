@@ -10,6 +10,9 @@
   <strong><a href="https://driip.me/cv">Curriculum Vitae (CV)</a></strong>
 </p>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dogdriip)](https://solved.ac/dogdriip)
+
 - Research-enthusiastic CSE Undergraduate student.
 - Likes
   - Machine Learning / Deep Learning
