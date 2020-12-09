@@ -2,7 +2,7 @@
 
 # driip!
 
-<p align="center">
+<p>
   <a href="https://driip.me">
     <img src="https://img.shields.io/badge/Homepage-driip.me-FF1B8D?style=flat-square" />
   </a>
