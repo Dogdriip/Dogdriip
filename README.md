@@ -3,11 +3,21 @@
 # driip!
 
 <p align="center">
-  <strong><a href="https://driip.me">Homepage</a></strong>
-  |
-  <strong><a href="https://driip.me/blog">Blog</a></strong>
-  |
-  <strong><a href="https://driip.me/cv">Curriculum Vitae (CV)</a></strong>
+  <a href="https://driip.me">
+    <img src="https://img.shields.io/badge/Homepage-driip.me-FF1B8D?style=flat-square" />
+  </a>
+  <a href="https://driip.me/blog">
+    <img src="https://img.shields.io/badge/Blog-driip.me/blog-FFDA00?style=flat-square" />
+  </a>
+  <a href="https://driip.me/cv">
+    <img src="https://img.shields.io/badge/CV-driip.me/cv-1BB3FF?style=flat-square" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:dogdriip@gmail.com">
+    <img src="https://img.shields.io/badge/-dogdriip@gmail.com-red?style=flat-square&labelColor=red&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
 [![Solved.ac
