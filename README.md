@@ -29,3 +29,5 @@
   - **ななひら**
   - オンゲキ
   - VTuber 🍙🥐 🏰🕛 🐶💙
+
+[![HitCount](http://hits.dwyl.com/Dogdriip/Dogdriip.svg)](http://hits.dwyl.com/Dogdriip/Dogdriip)
