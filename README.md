@@ -14,22 +14,8 @@
   </a>
 </p>
 
-- Research-enthusiastic CSE Undergraduate student.
-- Likes
-  - Machine Learning / Deep Learning
-  - Data Science
-  - Problem Solving
-- Studying
-  - EDA (Exploratory Data Analysis)
-  - React
-  - Computer Vision
-  - NLP
-- Interested in
-  - TypeScript
-  - Rust
-  - Mathematics
-- Otaku
-  - maimai
-  - **ななひら**
-  - オンゲキ
-  - VTuber 🍙🥐 🏰🕛 🐶💙
+- 👨‍💻 Frontend Engineer.
+- 📈 Formerly worked as Data Scientist.
+- 😘 Likes `React` `TypeScript` `ReasonML` `WASM` `Algorithm Problem Solving`
+- 🤔 Interested in `Machine Learning / Deep Learning` `Data Science` `EDA (Exploratory Data Analysis)` `Computer Vision` `NLP`
+- 😆 Otaku `maimai` `ななひら` `オンゲキ` `VTuber` `🍙🥐` `🏰🕛` `🐶💙`
