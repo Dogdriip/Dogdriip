@@ -16,6 +16,6 @@
 
 - 👨‍💻 TypeScript expert wannabe Frontend Engineer.
 - 📈 Formerly worked as Data Scientist.
-- 😘 Likes `React` `TypeScript` `ReasonML` `WASM` `Algorithm Problem Solving`
+- 😘 Likes `React` `TypeScript` `ReScript` `WASM` `Algorithm Problem Solving`
 - 🤔 Interested in `Machine Learning / Deep Learning` `Data Science` `EDA (Exploratory Data Analysis)` `Computer Vision` `NLP`
 - 😆 Otaku `maimai` `ななひら` `オンゲキ` `VTuber` `🍙🥐` `🏰🕛` `🐶💙`
